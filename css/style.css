@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url("../images/banner_img.png");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 660px;
+    width: 100%;
+    
+   
+    /* background-position: 29px;
+    background-repeat: no-repeat;
+    background-size: contain; */
+    /* aspect-ratio: 1.5; */
+}
+.sec-2 iframe{
+    height: 800px;
+}
+
+.sec-3{
+    background-color: rgb(222, 224, 226);
+}
+
+.login-btn:hover{
+    border-radius:10px solid yellow ;
+}
+
+.card-1{
+    border-left: 4px solid #F3BA5D;
+}
+
+.card-btn button{
+    width: 45%;
+    margin-left: 75px;
+    margin-bottom: 20px;
+}
+
+.sect-5-img{
+    background-image: url("../images/banner_img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 325px;
+}
+
+.sec-5-row{
+    position: relative;
+    left: 159px;
+}
+
+.sec-6-img{
+    background-image: url("../images/banner_img.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 270px;
+    
+   
+}
+.sect-6-img-2{
+    height: 80px;
+    width: 35%;
+    border-radius: 50px;
+
+}
+
+.sec-6-row{
+    position: relative;
+    left: 159px;
+}
+
+.footer-img{
+    background-image: url("../images/banner_img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}

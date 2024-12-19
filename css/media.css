@@ -1,0 +1,55 @@
+@media screen and (min-width:380px) and (max-width:767px){
+    .bg-image{
+        height: 705px;
+    }
+    
+    
+    .side-img{
+       
+        width: 80%;
+        margin-top: 5%;
+        margin-left: 11%;
+    }
+
+    .text_div h1{
+        /* text-align: center;
+        padding-left: 0px; */
+    }
+
+    .text_div p{
+        /* text-align: center; */
+    }
+
+    .sect-1-img1{
+        width: 80%;
+        margin-top: 5%;
+        margin-left: 11%;
+    }
+
+    .sec-2 iframe{
+        height: auto;
+    }
+    .sect-6-img-2{
+        height: 80px;
+        width: 20%;
+        border-radius: 50px;
+        
+    }
+    .avl-txt{
+        text-align: center;
+    }
+
+    .icons{
+        text-align: center;
+    }
+    
+.sec-5-row{
+    position: relative;
+    left: 10px;
+}
+
+.sec-6-row{
+    position: relative;
+    left: 0px;
+}
+}
